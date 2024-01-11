@@ -3,8 +3,6 @@
 <h2><img src="https://img.shields.io/badge/Author-Mr.X-blueviolet"/>
 <img src="https://img.shields.io/badge/osint-X-red"/>
 <img src="https://img.shields.io/badge/Made%20with-Python%20and%20Bash-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.0cf"/>
-<img src="https://img.shields.io/github/issues/Whomrx666/osint-X.svg?color=%23ff0000"/> <img
-<img src="https://img.shields.io/github/issues-closed/Whomrx666/osint-X.svg?color=%2300cc00"/> <img
 <img src="https://img.shields.io/github/forks/Whomrx666/osint-X.svg?color=%23ffff00"/> <img
 <img src="https://img.shields.io/github/stars/Whomrx666/osint-X.svg?color=%23ff3300"/> <img
 <img src="https://img.shields.io/github/license/Whomrx666/osint-X.svg?color=%230000ff"/> <img
