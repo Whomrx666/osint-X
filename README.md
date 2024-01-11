@@ -23,6 +23,7 @@ $ pkg install python -y
 $ pkg install git
 $ git clone https://github.com/Whomrx666/osint-X.git
 $ cd osint-X
+$ bash module.sh
 $ python osint-X.py
 ```
 
